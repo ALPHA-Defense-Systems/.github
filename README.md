@@ -1,6 +1,6 @@
 # 🛡️ ALPHA Defense Systems
 
-![ALPHA Defense Systems Logo](https://www.alphads.net/path/to/logo.png)  <!-- Replace with your actual logo -->
+![ALPHA Defense Systems Logo](https://www.alphads.net/wp-content/uploads/2021/04/Vector-Smart-Object.png)  <!-- Replace with your actual logo -->
 
 **Website:** [alphads.net](http://alphads.net/)  
 **GitHub:** [ALPHA-Defense-Systems](https://github.com/ALPHA-Defense-Systems)  
