@@ -59,16 +59,6 @@ Our tailored cybersecurity solutions cater to various sectors, including:
 
 ---
 
-## 🏆 Our Achievements
-
-- **ISO 27001 Certified:** Demonstrating our commitment to information security management.
-
-- **Over 5000 Vulnerabilities Discovered:** Reflecting our proactive approach to identifying and mitigating risks.
-
-- **500+ Projects Completed:** Showcasing our extensive experience in delivering cybersecurity solutions.
-
----
-
 ## 📢 Recent Activities
 
 - **FDC 2025:** Participated as a Silver Sponsor at the Cybersecurity and Data Integration Systems Conference and Exhibition held at the Egypt International Exhibition Center (EIEC), Cairo. Engaged with industry professionals and showcased our expertise in Digital Forensics and Incident Response (DFIR).
