@@ -93,10 +93,6 @@ Have a project in mind or need expert cybersecurity advice? Reach out to us:
 
 - **Email:** [info@alphads.net](mailto:info@alphads.net)
 
-- **Phone:** [Insert Phone Number]
-
-- **Address:** 15 Sherif Khaled St., 50th St., Maadi, Cairo, Egypt
-
 ---
 
 ## 🛡️ Stay Safe, Stay Secure!
