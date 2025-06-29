@@ -1,20 +1,21 @@
 name: Weekly Training Task
-description: Track a single SOC Tier 1 weekly challenge
+about: Log and track a single SOC Tier 1 weekly training challenge
 title: "[Week ##] TASK TITLE"
 labels: ["training", "week", "soc-tier1"]
 assignees: []
-
 body:
   - type: markdown
     attributes:
       value: |
-        ## 🧠 SOC Tier 1 Training - Weekly Challenge
+        ## 🧠 SOC Tier 1 Training – Weekly Challenge Log
+
+        Fill out the following details to track the progress of your weekly SOC challenge.
 
   - type: input
     id: week-number
     attributes:
       label: 📅 Week Number
-      description: Enter the week number (e.g., 01, 12, etc.)
+      description: Enter the week number (01 to 24)
       placeholder: "01"
     validations:
       required: true
@@ -23,7 +24,7 @@ body:
     id: platform
     attributes:
       label: 🔗 Platform
-      description: Where is the challenge hosted?
+      description: The platform hosting this challenge or module
       placeholder: "HTB Academy / CyberDefenders / TryHackMe / BTLO"
     validations:
       required: true
@@ -48,6 +49,7 @@ body:
     id: category
     attributes:
       label: 🧩 Skill Focus
+      description: What is the primary area this task covers?
       options:
         - DFIR
         - Windows Logs
@@ -68,8 +70,8 @@ body:
     id: deliverable
     attributes:
       label: ✅ Expected Deliverable
-      description: What should the analyst submit (e.g., IOC list, report, notes)?
-      placeholder: "Submit a markdown writeup with key takeaways and 3 detection rules..."
+      description: What should the analyst submit (writeup, screenshots, IOCs, etc.)
+      placeholder: "Submit a markdown writeup with key takeaways, screenshots, and detection rules..."
     validations:
       required: true
 
@@ -77,7 +79,7 @@ body:
     id: notes
     attributes:
       label: 💬 Additional Notes
-      description: Any extra guidance or walkthrough hints
+      description: Optional hints or guidance for this challenge
       placeholder: "Focus on process creation events and correlation with Sysmon logs..."
     validations:
       required: false
